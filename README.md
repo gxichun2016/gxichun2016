@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Xichun.
+- 👀 I’m interested in embeded software development.
+- 🌱 I’m currently learning embeded software development.
+- 💞️ I’m looking to collaborate on embeded software development.
